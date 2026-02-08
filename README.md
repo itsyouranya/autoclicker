@@ -11,4 +11,5 @@
 - Auto-save configs
 - Minimize to system tray
 - Low CPU, zero bloat
+ 
 Download: https://github.com/itsyouranya/autoclicker/releases/tag/autopresser
