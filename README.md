@@ -1,7 +1,7 @@
-SIFF Auto Presser / Clicker
-lightweight tool for automized "mouse clicks" and "keyboard presses", built for gamers.
+# SIFF Auto Keyboard Presser / Mouse Clicker
+## Lightweight tool for automized "mouse clicks" and "keyboard presses", built for gamers.
 
-Features
+### Features
 - Customized "Start / Stop" hotkey (mouse and keyboard supported)
 - Activation Mode (Toggle Hold)
 - Action Key (mouse and keyboard supported)
